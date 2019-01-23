@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.github.savemoney.iml" filepath="$PROJECT_DIR$/.idea/modules/com.github.savemoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.github.savemoney.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.github.savemoney.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.github.savemoney.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.github.savemoney.test.iml" />
+    </modules>
+  </component>
+</project>

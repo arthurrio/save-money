@@ -25,6 +25,12 @@ public class HelloWorldController {
     public String index(){
         return "Index";
     }
+
+    @PostMapping("/desafioSensei")
+    @ResponseBody
+    public String desafioSensei(@RequestBody ObjetoSensei objetoSensei){
+        return "Desafio: Teste do OBJETO. Description: " + objetoSensei.getDescription()+ " valor: "+ objetoSensei.getValue() ;
+    }
 }
 class Test{
 
